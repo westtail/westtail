@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=westtail&color=green)
+
 ### Hi there 👋
 
 <!--
