@@ -46,24 +46,9 @@
 ## 卒論研究
 
 ## カクテル検索アプリ
+githubページ https://github.com/westtail/cocktailSearchApp  
+アプリのページ https://www.cocktailsearch.cf
 
 ## ハッカソン開発物
-
-
-
-<!--
-**westtail/westtail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-大学での授業でプログラミングで初めて作成したシステム、ゲームです。  
+githubページ https://github.com/westtail/summerhackathon_vol2  
+アプリページ https://sh2-tlnesjcoqq-an.a.run.app
