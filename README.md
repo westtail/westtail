@@ -60,7 +60,6 @@ processingで描写などを実装しました。
 
 ## カクテル検索アプリ
 github https://github.com/westtail/cocktailSearchApp  
-アプリ https://www.cocktailsearch.cf
 
 ## ハッカソン開発物
 github https://github.com/westtail/summerhackathon_vol2  
