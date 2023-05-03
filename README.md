@@ -6,3 +6,9 @@
 ![](https://komarev.com/ghpvc/?username=westtail&color=green)
 
 # Welcome こんにちは！　見ていってください！
+
+## 趣味 
+* バーめぐり
+* 家でカクテル作り
+* ネットサーフィン
+* 漫画、本、ネット小説
