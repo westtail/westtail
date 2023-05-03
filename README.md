@@ -12,3 +12,6 @@
 * 家でカクテル作り
 * ネットサーフィン
 * 漫画、本、ネット小説
+
+## 履歴について
+https://westtail.github.io/personal_history/
