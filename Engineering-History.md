@@ -1,6 +1,6 @@
 # 開発経験　　社会人編
 ## kaggle　コンペアプリケーション
-kaggleデータをwebページ上で見やすくするためのアプリケーション. 
+kaggleデータをwebページ上で見やすくするためのアプリケーション.    
 https://github.com/westtail/kaggle_show_data_app_Feedback_Prize
 * Python
 * streamlit
