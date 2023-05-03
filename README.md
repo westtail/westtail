@@ -13,5 +13,5 @@
 * ネットサーフィン
 * 漫画、本、ネット小説
 
-## 履歴について
+## エンジニア・開発履歴
 https://github.com/westtail/westtail/tree/master
