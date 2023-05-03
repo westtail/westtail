@@ -14,4 +14,4 @@
 * 漫画、本、ネット小説
 
 ## エンジニア・開発履歴
-https://github.com/westtail/westtail/tree/master
+https://github.com/westtail/westtail/blob/master/Engineering-History.md
