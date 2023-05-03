@@ -14,4 +14,4 @@
 * 漫画、本、ネット小説
 
 ## 履歴について
-https://westtail.github.io/personal_history/
+https://github.com/westtail/westtail/tree/master
